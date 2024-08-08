@@ -1,0 +1,39 @@
+1: "A Itália é um país incrível, cheio de beleza e história. Eu, particularmente, sou apaixonado pelo Milan, então adorei tudo!"
+
+2: "Minha viagem para a Itália foi mágica! Roma é cheia de cultura e os monumentos são impressionantes."
+
+3: "A comida italiana é a melhor do mundo. Cada refeição era uma nova experiência deliciosa."
+
+4: "Veneza é um sonho! Os canais e a arquitetura são simplesmente deslumbrantes."
+
+5: "A Toscana é uma região imperdível. As paisagens são de tirar o fôlego e os vinhos são excepcionais."
+
+6: "Florença é uma cidade fascinante. O Museu Uffizi e a Catedral de Santa Maria del Fiore são espetaculares."
+
+7: "A hospitalidade dos italianos é maravilhosa. Fomos muito bem recebidos em todos os lugares."
+
+8: "A Costa Amalfitana é um paraíso na Terra. As vistas do mar e das falésias são inesquecíveis."
+
+9: "Passear por Pompeia foi uma experiência única. A história preservada ali é impressionante."
+
+10: "A Sicília tem um charme especial. As praias são lindas e a culinária local é deliciosa."
+
+11: "Adorei explorar os lagos do norte da Itália. O Lago de Como é simplesmente encantador."
+
+12: "Visitar o Coliseu em Roma foi um dos pontos altos da minha viagem. É uma estrutura monumental."
+
+13: "O Carnaval de Veneza é uma festa única. As máscaras e fantasias são lindas e cheias de tradição."
+
+14: "A arte renascentista em Florença é incomparável. A Galeria Accademia e o David de Michelangelo são imperdíveis."
+
+15: "Passear pelas ruas de Verona foi encantador. A cidade de Romeu e Julieta tem uma atmosfera romântica."
+
+16: "A ilha de Capri é um verdadeiro refúgio. As grutas e as águas cristalinas são de tirar o fôlego."
+
+17: "Os museus de Roma são fantásticos. O Museu do Vaticano e a Capela Sistina são absolutamente impressionantes."
+
+18: "A moda em Milão é incrível. As lojas e boutiques são um paraíso para os amantes da moda."
+
+19: "Passear pelos campos de lavanda na região da Ligúria foi uma experiência maravilhosa."
+
+20: "Explorar as ruínas romanas em todo o país foi fascinante. Cada sítio arqueológico conta uma parte da história."

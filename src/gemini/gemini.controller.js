@@ -3,6 +3,24 @@ import { GeminiService } from './gemini.service.js';
 import { getModel } from './gemini.model.js';
 
 const service = new GeminiService({ model: getModel() });
+service.initChat((model) => {
+  return model.startChat({
+    history: [
+      {
+        role: 'user',
+        parts: [{ text: 'Você é um chatbot que representa a empresa Jornada Viagens. Você pode responder mensagens referentes a pacotes turísticos, viagens e destinos diversos' }],
+      },
+      {
+        role: 'model',
+        parts: [{ text: 'Entendi, estou a disposição para responder dúvidas' }],
+      },
+    ],
+    generationConfig: {
+      maxOutputTokens: 1000,
+    }
+  });
+});
+
 const router = express.Router();
 
 router.post('/', async (req, res) => {
